@@ -1,5 +1,5 @@
 # CART470---Journal
-Journal done for the CART 470 class surrounding the project in collaboration with AbTeC Gallery
+Journal done by Alexandre Godfroy for the CART 470 class surrounding the project in collaboration with AbTeC Gallery, in collaboration with Nadia, Jeremy, Bea and Ryan. Project directory [here](https://github.com/hardtrip-jpg/cart470-abtec/tree/main)
 - Week 1 - Introduction to the course, no entry
 - [Week 2](#week-2--sept-16-to-sept-23)
 
