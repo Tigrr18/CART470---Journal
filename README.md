@@ -16,4 +16,6 @@ Overall, our approach is very collaborative, and we hope to find out how much li
 - if it is multiplayer
 - if the goal is to create a specific exhibit or a base for future exhibits to be built off of.
 
+There is also a few concerns that we have about how to approach the project in an anti-colonialism context, as most of the team is composed from caucsian people, with at most external experience of indigenous communities. We want to make sure we are fully aware of all elements, to make sure we aren't overstepping on anything. 
+
 After we determine these elements, we will be able to start moving forward and come up with a mock-up and plan of what exactly we want to build, and focus a bit more on how the tasks will be distributed. 
