@@ -28,7 +28,7 @@ After we determine these elements, we will be able to start moving forward and c
 During class, we had a meeting with Nancy and Arijit from the AbTeC Gallery. After voicing our concerns about the choice of a platform, we established that we would be making small test builds in each possible engine (Unreal, Unity and Godot), to compare the pros and cons of each workflow. Each engine had its own interesting aspect, so we wanted to have a better idea at how they balance against each other.
 
 We also determined that we would be meeting approximately every 3 week, meaning that we would have three more meetings during the session, with some goals for each.
-#### First meeting goal
+### First meeting goal
 - Present the different prototypes
   - VR (engine TBD)
   - Unreal PC build
@@ -36,15 +36,16 @@ We also determined that we would be meeting approximately every 3 week, meaning 
   - Unity web build
   - Godot PC build
   - Godot web build
-    *The scope of the build is currently to import the gallery building and the tree, adjust the lighting and place a static camera. In the case of the VR, the camera will need to be able to turn around, but the player will be static. We will implement a movement system if time allows, but we will probably only implement it in 1-2 platforms at most, depending on our favorites before the meeting.*
 - Determine the engine & platform to be used for the project
 - Clarify Goals for second meeting
-#### Second meeting goal
+
+*The scope of the build is currently to import the gallery building and the tree, adjust the lighting and place a static camera. In the case of the VR, the camera will need to be able to turn around, but the player will be static. We will implement a movement system if time allows, but we will probably only implement it in 1-2 platforms at most, depending on our favorites before the meeting.*
+### Second meeting goal
 - Movement system implemented
 - Determining artwork import workflow
 - Test of different interaction mechanics
 - Test of different text pop-up/interaction systems
-#### Third and final meeting goal
+### Third and final meeting goal
 - Final project (ish)
 - Small changes if necessary
 - Discussion of where the project may go outside of the scope of the CART470 class
