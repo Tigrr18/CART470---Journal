@@ -21,6 +21,8 @@ There is also a few concerns that we have about how to approach the project in a
 
 After we determine these elements, we will be able to start moving forward and come up with a mock-up and plan of what exactly we want to build, and focus a bit more on how the tasks will be distributed. 
 
+[Back to Top](https://github.com/Tigrr18/CART470---Journal/blob/main/README.md#cart470---journal)
+
 ## Week 3 : Sept 23 to Sept 30
 
 During class, we had a meeting with Nancy and Arijit from the AbTeC Gallery. After voicing our concerns about the choice of a platform, we established that we would be making small test builds in each possible engine (Unreal, Unity and Godot), to compare the pros and cons of each workflow. Each engine had its own interesting aspect, so we wanted to have a better idea at how they balance against each other.
@@ -46,6 +48,8 @@ We also determined that we would be meeting approximately every 3 week, meaning 
 - Final project (ish)
 - Small changes if necessary
 - Discussion of where the project may go outside of the scope of the CART470 class
+
+[Back to Top](https://github.com/Tigrr18/CART470---Journal/blob/main/README.md#cart470---journal)
 
 
 
