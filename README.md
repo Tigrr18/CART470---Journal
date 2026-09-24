@@ -50,6 +50,28 @@ We also determined that we would be meeting approximately every 3 week, meaning 
 - Small changes if necessary
 - Discussion of where the project may go outside of the scope of the CART470 class
 
+In terms of the work load, we have decided of the following roles for now:
+- **Communications**
+  - Alex (me)
+- **Unreal Engine**
+  - Main: Nadia
+  - Helper: Bea, Alex
+- **Unity**
+  - Main: Alex, Ryan
+- **Godot**
+  - Main: Jeremy, Bea
+
+These roles will definitely change as we reorganize after choosing the engine in which we will be doing the final prototype. 
+
+Here is a timeline of the tasks I have completed this week:
+### Communication
+- **Sept 23**: Email to Nancy and Arijit concerning getting the 3D models, establishing a meeting date for the first check-in meeting and discussing copyright issues of a public GitHub repository
+- **Sept 24**: Email to Nancy about a solution of using a private repository, and giving access individually
+- **Sept 24**: Email to Sabine concerning using a private repository for the main files, offering to directly add her to the GitHub to make sure no copyrighted material is made public
+
+### Unity project
+- **Sept 24**: Creation of the Unity fork from the main repository
+
 [Back to Top](https://github.com/Tigrr18/CART470---Journal/blob/main/README.md#cart470---journal)
 
 
