@@ -27,8 +27,9 @@ After we determine these elements, we will be able to start moving forward and c
 
 During class, we had a meeting with Nancy and Arijit from the AbTeC Gallery. After voicing our concerns about the choice of a platform, we established that we would be making small test builds in each possible engine (Unreal, Unity and Godot), to compare the pros and cons of each workflow. Each engine had its own interesting aspect, so we wanted to have a better idea at how they balance against each other.
 
-We also determined that we would be meeting approximately every 3 week, meaning that we would have three more meetings during the session, with some goals for each.
-### First meeting goal
+### Meeting Goals
+We determined that we would be meeting approximately every 3 week, meaning that we would have three more meetings during the session, with some goals for each.
+###3 First meeting goal
 - Present the different prototypes
   - VR (engine TBD)
   - Unreal PC build
@@ -40,19 +41,20 @@ We also determined that we would be meeting approximately every 3 week, meaning 
 - Clarify Goals for second meeting
 
 *The scope of the build is currently to import the gallery building and the tree, adjust the lighting and place a static camera. In the case of the VR, the camera will need to be able to turn around, but the player will be static. We will implement a movement system if time allows, but we will probably only implement it in 1-2 platforms at most, depending on our favorites before the meeting.*
-### Second meeting goal
+#### Second meeting goal
 - Movement system implemented
 - Determining artwork import workflow
 - Test of different interaction mechanics
 - Test of different text pop-up/interaction systems
-### Third and final meeting goal
+#### Third and final meeting goal
 - Final project (ish)
 - Small changes if necessary
 - Discussion of where the project may go outside of the scope of the CART470 class
 
+### Work Distribution
 In terms of the work load, we have decided of the following roles for now:
 - **Communications**
-  - Alex (me)
+  - Alex (me), Nadia if I'm unavailable
 - **Unreal Engine**
   - Main: Nadia
   - Helper: Bea, Alex
@@ -63,14 +65,18 @@ In terms of the work load, we have decided of the following roles for now:
 
 These roles will definitely change as we reorganize after choosing the engine in which we will be doing the final prototype. 
 
+### Other Precisions
+The main repository and its forks have been confirmed to being private on Github, to preserve copyrights and limit distribution of the 3D models provided by AbTeC. 
+
+### Timeline
 Here is a timeline of the tasks I have completed this week:
-### Communication
+#### Communication
 - **Sept 23**: Email to Nancy and Arijit concerning getting the 3D models, establishing a meeting date for the first check-in meeting and discussing copyright issues of a public GitHub repository
 - **Sept 24**: Email to Nancy about a solution of using a private repository, and giving access individually
 - **Sept 24**: Email to Sabine concerning using a private repository for the main files, offering to directly add her to the GitHub to make sure no copyrighted material is made public
 - **Sept 29**: Back and forth & calendar invite for the client meeting of Thursday Oct. 8th at 10 AM
 
-### Unity project
+#### Unity project
 - **Sept 24**: Creation of the Unity fork from the main repository
 
 [Back to Top](https://github.com/Tigrr18/CART470---Journal/blob/main/README.md#cart470---journal)
