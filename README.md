@@ -68,6 +68,7 @@ Here is a timeline of the tasks I have completed this week:
 - **Sept 23**: Email to Nancy and Arijit concerning getting the 3D models, establishing a meeting date for the first check-in meeting and discussing copyright issues of a public GitHub repository
 - **Sept 24**: Email to Nancy about a solution of using a private repository, and giving access individually
 - **Sept 24**: Email to Sabine concerning using a private repository for the main files, offering to directly add her to the GitHub to make sure no copyrighted material is made public
+- **Sept 29**: Back and forth & calendar invite for the client meeting of Thursday Oct. 8th at 10 AM
 
 ### Unity project
 - **Sept 24**: Creation of the Unity fork from the main repository
