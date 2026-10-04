@@ -3,6 +3,7 @@ Journal done by Alexandre Godfroy for the CART 470 class surrounding the project
 - Week 1 - Introduction to the course, no entry
 - [Week 2](#week-2--sept-16-to-sept-23)
 - [Week 3](#week-3--sept-23-to-sept-30)
+- [Week 4]()
 
 
 ## Week 2 : Sept 16 to Sept 23
@@ -71,15 +72,54 @@ The main repository and its forks have been confirmed to being private on Github
 ### Timeline
 Here is a timeline of the tasks I have completed this week:
 #### Communication
-- **Sept 23**: Email to Nancy and Arijit concerning getting the 3D models, establishing a meeting date for the first check-in meeting and discussing copyright issues of a public GitHub repository
-- **Sept 24**: Email to Nancy about a solution of using a private repository, and giving access individually
-- **Sept 24**: Email to Sabine concerning using a private repository for the main files, offering to directly add her to the GitHub to make sure no copyrighted material is made public
-- **Sept 29**: Back and forth & calendar invite for the client meeting of Thursday Oct. 8th at 10 AM
+- **Sept 23**:
+  - Email to Nancy and Arijit concerning getting the 3D models
+  - establishing a meeting date for the first check-in meeting
+  - discussing copyright issues of a public GitHub repository
+- **Sept 24**:
+  - Email to Nancy about a solution of using a private repository, and giving access individually
+- **Sept 24**:
+  - Email to Sabine concerning using a private repository for the main files, offering to directly add her to the GitHub to make sure no copyrighted material is made public
+- **Sept 29**:
+  - Back and forth & calendar invite for the client meeting of Thursday Oct. 8th at 10 AM
 
 #### Unity project
 - **Sept 24**: Creation of the Unity fork from the main repository
 
 [Back to Top](https://github.com/Tigrr18/CART470---Journal/blob/main/README.md#cart470---journal)
 
+## Week 4 : Sept 30 to Oct 7th
 
+### Weekly Meeting Recap
+During the class, we had a brief meeting with Sabine, in which we discussed where we were so far, and what direction the project was taking. We established the following:
+- We were completing, as agreed with AbTeC, 6 prototypes within 3 engines, each engine having a .exe build and a web or VR build depending on the platform
+- We explored the main aspect we are worrying about for the project, accessibility
+- We have a communications manager
+- We have established contact with external resources (Marc-André Hamelin from Elektra Virtual Museum0
+
+Due to having a meeting with the AbTeC staff Thursday October 8th, we decided that we would not be meeting with Mac or Sabine on Oct. 7th, as we agreed that having input the day before the client meeting might not be benefitial as it will make us want to change things with less than 24h before the client meeting. Sabine also offered to meet thursday or friday after the client meeting, with the totality or part of the team, as needed. 
+
+### Work done this week
+
+I had quite a bit of trouble setting up the Unity project in the GitHub fork. I had issues with the .gitignore that would not cover enough files and not load properly when pulled, and the project files just being too big to push to the branch. I tried a few times, deleting the project and redoing it, but the issue is that the project would take 5-10 minutes to delete from the GitHub changes in the GitHub Desktop window. Ryan ended up creating the project instead, but I was still having issues pulling the project into my laptop due to the previous attempts at creating a project.
+
+After deleting all prior files and clearing the folder, there was still some issues with pulling the data in, with github giving the following error message:
+```
+error: cannot stat 'Abtec_UnityProject/Library/PackageCache/com.unity.render-pipelines.high-definition@390b04b9db7c/Samples~/VolumetricSamples/Fog Volume Shadergraph/Procedural Noises/Tiling Gradient Noise 3D.shadersubgraph.meta': Filename too long
+Updating 9cec6a20..2cd4ce7d
+```
+
+### Timeline
+
+#### Unity Project
+- **Oct 1**:
+  - deletion and recreation of the Unity fork to make sure that it was private, following the agreement on creating private repositories.
+  - 2 attempts of creating the Unity Project and failing to push to the GitHub
+- **Oct 3**:
+  - Attempt to pull the Unity project created by Ryan, which took quite a bit of time due to the size of the project (and my internet being incredibly slow)
+  - Blockage to pull the project once data was downloaded due to previous attempt not being fully removed from the local disk
+- **Oct 4**:
+  - Deletion of previous attempt on local disk
+
+[Back to Top](https://github.com/Tigrr18/CART470---Journal/blob/main/README.md#cart470---journal)
 
