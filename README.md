@@ -3,7 +3,7 @@ Journal done by Alexandre Godfroy for the CART 470 class surrounding the project
 - Week 1 - Introduction to the course, no entry
 - [Week 2](#week-2--sept-16-to-sept-23)
 - [Week 3](#week-3--sept-23-to-sept-30)
-- [Week 4]()
+- [Week 4](#week-4--sept-30-to-oct-7th)
 
 
 ## Week 2 : Sept 16 to Sept 23
