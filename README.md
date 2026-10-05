@@ -99,6 +99,10 @@ During the class, we had a brief meeting with Sabine, in which we discussed wher
 
 Due to having a meeting with the AbTeC staff Thursday October 8th, we decided that we would not be meeting with Mac or Sabine on Oct. 7th, as we agreed that having input the day before the client meeting might not be benefitial as it will make us want to change things with less than 24h before the client meeting. Sabine also offered to meet thursday or friday after the client meeting, with the totality or part of the team, as needed. 
 
+### Uh Oh! Schedule Change
+
+We were notified October 5th that the meeting with Arijit, Nancy and Skawennati from the AbTeC Gallery would have to be moved from Oct 8th to Oct 13th, due to an unavailability from Skawennati.
+
 ### Work done this week
 
 I had quite a bit of trouble setting up the Unity project in the GitHub fork. I had issues with the .gitignore that would not cover enough files and not load properly when pulled, and the project files just being too big to push to the branch. I tried a few times, deleting the project and redoing it, but the issue is that the project would take 5-10 minutes to delete from the GitHub changes in the GitHub Desktop window. Ryan ended up creating the project instead, but I was still having issues pulling the project into my laptop due to the previous attempts at creating a project.
@@ -120,6 +124,15 @@ Updating 9cec6a20..2cd4ce7d
   - Blockage to pull the project once data was downloaded due to previous attempt not being fully removed from the local disk
 - **Oct 4**:
   - Deletion of previous attempt on local disk
+ 
+#### Communications
+- **Oct 5**:
+  - Notified by AbTeC team that the meeting would be pushed to October 13th due to unavailability from Skawennati
+  - Asked for some specifications on some issues we were having on the models. Questions include
+    - Overlapping verticies, can we edit them?
+    - Lack of texture, can we/should we create some?
+    - The flowers for the tree are nowhere to be found
+    - Can we use free online assets for extra stuff or do we have to model them?
 
 [Back to Top](https://github.com/Tigrr18/CART470---Journal/blob/main/README.md#cart470---journal)
 
