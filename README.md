@@ -137,7 +137,7 @@ Updating 9cec6a20..2cd4ce7d
 
 [Back to Top](https://github.com/Tigrr18/CART470---Journal/blob/main/README.md#cart470---journal)
 
-## Week 5-6 - Oct 8th to Oct 21st
+## Week 5-6 : Oct 8th to Oct 21st
 
 ### Weekly meeting recap
 During the class, we had a brief meeting with Sabine, in which we discussed where we were so far, and what direction the project was taking. We established the following:
