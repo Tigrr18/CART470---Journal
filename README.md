@@ -4,6 +4,7 @@ Journal done by Alexandre Godfroy for the CART 470 class surrounding the project
 - [Week 2](#week-2--sept-16-to-sept-23)
 - [Week 3](#week-3--sept-23-to-sept-30)
 - [Week 4](#week-4--sept-30-to-oct-7th)
+- [Week 5-6](#week-5-6--oct-8th-to-oct-21st)
 
 
 ## Week 2 : Sept 16 to Sept 23
@@ -136,3 +137,42 @@ Updating 9cec6a20..2cd4ce7d
 
 [Back to Top](https://github.com/Tigrr18/CART470---Journal/blob/main/README.md#cart470---journal)
 
+## Week 5-6 - Oct 8th to Oct 21st
+
+### Weekly meeting recap
+During the class, we had a brief meeting with Sabine, in which we discussed where we were so far, and what direction the project was taking. We established the following:
+- The Godot prototypes were almost done
+- Blender files were in the process of being updated
+- Unity had barely anything done due to the extensive technical issues. Most of the time spent on the Unity side was attempting to resolve technical issues as well as restarting the project over and over
+- The Unreal Engine project was still barely started due to the work on Blender.
+
+### Work done this week
+
+We realized that the problem of the Unity project was most probably the High Resolution Pipeline, which is a nightmare to share on Github. To attempt to resolve this, I completely wiped the Unity Github fork, revisited the .gitignore to adjust elements, and created a new Unity project with the regular pipeline, hoping that our issues would be magically resolved. Unfortunately, that was not the case. Even though the upload of the project was this time much smoother, there was still issues on Ryan's side, where he could not pull or push properly. Because Ryan had more time and was a bit more comfortable doing the base Unity, he ended up working on the Unity demo alone. 
+
+### AbTeC meeting (Oct 15th)
+
+During the meeting with Skawennati and the AbTeC team, we were able to showcase all the different prototypes and give the pros and cons of each pipeline. After quite a bit of discussion about what was possible in each platform, we decided to move forward with both the Unreal Engine project as a VR installation and the Godot projet as a web based project. 
+
+#### Unreal Engine VR
+
+The Unreal Engine VR installation would be made according to the following requirements:
+- Single player, played in the Black Room
+- No character avatar, no hands or anything visible.  Player would essentially be a floating camera
+- "Best of" things that were exposed so far. We discussed having the celestial tree as well as potentially the "Shooting of the Indian Act".
+- This would be a part of the project that would not be worked on much beyond this class. The idea would simply be to have some type of installation available in person at AbTeC.
+- Because this is not necessarily to be continuisely worked on, we can use Blueprints even if support will end soon
+
+#### Godot Web
+
+The Godot Web gallery would be the "accessible" option, which would most probably serve as a basis to the successor of Second Life. Godot also allows direct compatibility with Blender, allowing the artists to change the infrastructures, models and textures directly in Blender. If there is interactions to be done, they would have to be created in Godot itself, but the physicallity of the Gallery would only use Godot as a running platform. 
+
+### Timeline
+
+#### Unity Project
+- **Oct 13th**:
+  - Attempt to restart the project & fix th gitignore, everything was working on my side of things but didn't work for Ryan, so after some back and forth, the model was created locally by Ryan
+ 
+####  Communications
+
+[Back to Top](https://github.com/Tigrr18/CART470---Journal/blob/main/README.md#cart470---journal)
