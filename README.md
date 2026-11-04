@@ -172,7 +172,14 @@ The Godot Web gallery would be the "accessible" option, which would most probabl
 #### Unity Project
 - **Oct 13th**:
   - Attempt to restart the project & fix th gitignore, everything was working on my side of things but didn't work for Ryan, so after some back and forth, the model was created locally by Ryan
- 
-####  Communications
+
+
+[Back to Top](https://github.com/Tigrr18/CART470---Journal/blob/main/README.md#cart470---journal)
+
+## Week 7
+
+I really didn't do much
+
+## Week 8
 
 [Back to Top](https://github.com/Tigrr18/CART470---Journal/blob/main/README.md#cart470---journal)
