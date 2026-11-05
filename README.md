@@ -5,6 +5,8 @@ Journal done by Alexandre Godfroy for the CART 470 class surrounding the project
 - [Week 3](#week-3--sept-23-to-sept-30)
 - [Week 4](#week-4--sept-30-to-oct-7th)
 - [Week 5-6](#week-5-6--oct-8th-to-oct-21st)
+- [Week 7](#week-7)
+- [Week 8](#week-8)
 
 
 ## Week 2 : Sept 16 to Sept 23
