@@ -192,6 +192,14 @@ After Nadia restarted the UE project for some cleanup, as well as just adapting 
 
 ### First step: how to do a widget
 
-Because I have absolutely no idea how to do any UI in unreal engine, I started by finding some tutorials. Since the first I saw was a menu tutorial, I figured I would start by that to learn how the widgets work via building the menu, and then find how to apply it to the text boxes. 
+Because I have absolutely no idea how to do any UI in unreal engine, I started by finding some tutorials. Since [the first I saw was a menu tutorial](https://www.youtube.com/watch?v=kM27HYbpvc0), I figured I would start by that to learn how the widgets work via building the menu, and then find how to apply it to the text boxes. I kept the visual design of the menu very simple, as I figured I should not waste any time on making polished assets for a menu that doesn't specifically need a visual identity of its own. 
+
+### Second step: How to point (interact)
+
+[In the same tutorial](https://www.youtube.com/watch?v=kM27HYbpvc0), we learn how to make a "laser" pointer to allow the player to visualize where they are currently pointing. This allows the player to know where their cursor is and makes interacting with the menu much easier. For now, the menu is static when it appears. I have yet to decide if the menu should follow the "camera" and stay in front of the players face, or simply stand in space. 
+
+### Third step: popping up an "interact" 
+
+I found [this tutorial](
 
 [Back to Top](https://github.com/Tigrr18/CART470---Journal/blob/main/README.md#cart470---journal)
