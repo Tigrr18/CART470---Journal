@@ -178,8 +178,20 @@ The Godot Web gallery would be the "accessible" option, which would most probabl
 
 ## Week 7
 
-I really didn't do much
+I really didn't do much, so I am not too sure what to write this week. I was busy with midterms and other assignments. 
 
 ## Week 8
+
+### Work done this week
+
+After Nadia restarted the UE project for some cleanup, as well as just adapting the project to work on a VR platform. We decided that I would leave the more visual part for Nadia, as she has more expertise than me in that area. Instead, I decided to focus more on the technical side as well as interactions. For the moment, I am planning to start on the following tasks:
+- Pause menu (settings & quit)
+- Settings menu
+- "interactable" popup when getting close to an artwork
+- text popup when interacting with an artwork. Ideally, this textbox should follow you around until you close it.
+
+### First step: how to do a widget
+
+Because I have absolutely no idea how to do any UI in unreal engine, I started by finding some tutorials. Since the first I saw was a menu tutorial, I figured I would start by that to learn how the widgets work via building the menu, and then find how to apply it to the text boxes. 
 
 [Back to Top](https://github.com/Tigrr18/CART470---Journal/blob/main/README.md#cart470---journal)
