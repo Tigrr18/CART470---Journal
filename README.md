@@ -192,14 +192,20 @@ After Nadia restarted the UE project for some cleanup, as well as just adapting 
 
 ### First step: how to do a widget
 
-Because I have absolutely no idea how to do any UI in unreal engine, I started by finding some tutorials. Since [the first I saw was a menu tutorial](https://www.youtube.com/watch?v=kM27HYbpvc0), I figured I would start by that to learn how the widgets work via building the menu, and then find how to apply it to the text boxes. I kept the visual design of the menu very simple, as I figured I should not waste any time on making polished assets for a menu that doesn't specifically need a visual identity of its own. 
+Because I have absolutely no idea how to do any UI in unreal engine, I started by finding some tutorials. Since [the first I saw was a menu tutorial](https://www.youtube.com/watch?v=kabM7GHBaiA), I figured I would start by that to learn how the widgets work via building the menu, and then find how to apply it to the text boxes. I kept the visual design of the menu very simple, as I figured I should not waste any time on making polished assets for a menu that doesn't specifically need a visual identity of its own. I struggled a bit due to my unfamiliarity with unreal engine, and my lack of some basic knowledge in some of the systems used by this engine. Fortunately, I did pick things up quite fast, but did spend a bit more time than I wished on getting this to work. 
 
 ### Second step: How to point (interact)
 
-[In the same tutorial](https://www.youtube.com/watch?v=kM27HYbpvc0), we learn how to make a "laser" pointer to allow the player to visualize where they are currently pointing. This allows the player to know where their cursor is and makes interacting with the menu much easier. For now, the menu is static when it appears. I have yet to decide if the menu should follow the "camera" and stay in front of the players face, or simply stand in space. 
+[In another tutorial](https://www.youtube.com/watch?v=kM27HYbpvc0), we learn how to make a "laser" pointer to allow the player to visualize where they are currently pointing. This allows the player to know where their cursor is and makes interacting with the menu much easier. For now, the menu is static when it appears. I have yet to decide if the menu should follow the "camera" and stay in front of the players face, or simply stand in space. 
 
 ### Third step: popping up an "interact" 
 
-I found [this tutorial](
+I found [this tutorial](https://youtu.be/kB1_qxNUi9Q?si=jVfv2G1p2XOlzeS0) that allows for an interact to pop up when within range of the object. I haven't gotten to implementing this in yet. As mentionned previously, the previous steps took more time than planned, and I couldn't quite get to it. This is something that Nadia had implemented in the previous iteration of the gallery (which, unfortunately, the files seem to have been lost). I need to establish with her if it is prefferable if she implements that part of the interaction, since she's done it before. It will all depend on how far she gets within the next week with the visual design of the gallery. 
 
+### Plan for next week
+
+- Implement interact popup
+- implement text popup with text corresponding to each artwork
+- look into how to implement the "shooting the indian act" interaction mentionned in the meetings with AbTeC and Skawennati.
+- 
 [Back to Top](https://github.com/Tigrr18/CART470---Journal/blob/main/README.md#cart470---journal)
